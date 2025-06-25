@@ -1,0 +1,6 @@
+
+#!/bin/bash
+
+
+#shell /environment variables hote hai
+echo "current logged in user
