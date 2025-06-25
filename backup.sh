@@ -1,8 +1,8 @@
 #!/bin/bash
-
+i
 <<info
 
-this is about backup
+this is about backup file 
 info
 src=$1
 dest=$2
